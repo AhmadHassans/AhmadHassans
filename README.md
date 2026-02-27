@@ -23,8 +23,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadHassans&show_icons=true&theme=tokyonight" alt="Ahmad Hassan's GitHub stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AhmadHassans&show_icons=true&theme=radical" />
 
 ---
 
