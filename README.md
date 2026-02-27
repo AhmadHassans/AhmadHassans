@@ -28,6 +28,7 @@
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40" width="40" /></a>
 <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
+<a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" width="40" /></a>
 <a href="https://www.snapchat.com/add/YOUR_SNAPCHAT_USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=snapchat" alt="Snapchat" height="40" width="40" /></a>
 <a href="https://github.com/AhmadHassans" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" /></a>
 </p>
